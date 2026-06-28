@@ -2,17 +2,8 @@
 i am currently a undergraduate student, want to learn about possibilities of a human regeneration
 
 
+#PROJECTS DONE SO FAR:
 
-dna gc_calculater.py:-
+1. [GC_percentage calculator]:script to calculate nucelotides percentage 
 
-dna = "ATGCGTACGTTAGCTAGCTAGCT"
-
-total_length = len(dna)
-
-combined_gc_count = g_count + c_count
-
-percentage_gc_combined = (combined_gc_count/total_length)*100
-
-print(f"C and G combined: {percentage_gc_combined:.2f}%")
-
-
+2. [RNA transcriber]: A script that converts DNA string to RNA by rplacing "T" to "U"
