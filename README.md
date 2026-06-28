@@ -6,6 +6,7 @@ i am currently a undergraduate student, want to learn about possibilities of a h
 dna gc_calculater.py:-
 
 dna = "ATGCGTACGTTAGCTAGCTAGCT"
+
 total_length = len(dna)
 combined_gc_count = g_count + c_count
 percentage_gc_combined = (combined_gc_count/total_length)*100
