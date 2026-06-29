@@ -7,3 +7,5 @@ i am currently a undergraduate student, want to learn about possibilities of a h
 1. [GC_percentage calculator]:script to calculate nucelotides percentage 
 
 2. [RNA transcriber]: A script that converts DNA string to RNA by rplacing "T" to "U"
+
+3 [DNA translator]: script that make complimentary strand of DNA sequence 
