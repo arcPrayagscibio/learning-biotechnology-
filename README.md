@@ -9,3 +9,6 @@ i am currently a undergraduate student, want to learn about possibilities of a h
 2. [RNA transcriber]: A script that converts DNA string to RNA by rplacing "T" to "U"
 
 3 [DNA translator]: script that make complimentary strand of DNA sequence 
+
+4. [fasta_reader]: functional script that reads fasta files
+
