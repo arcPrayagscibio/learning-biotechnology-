@@ -1,0 +1,9 @@
+def read_fasta(file_path):
+    """Reads a fasta file and returns the DNA sequence as a single string."""
+    sequence = ""
+    with open(file_path, 'r') as file:
+        for line in file:
+            if line.startswith(">"):
+                continue
+            sequence += line.strip()
+    return sequence.upper()
